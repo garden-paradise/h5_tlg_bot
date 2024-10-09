@@ -1,0 +1,26 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sawok94/telegram_bot.git"
+  },
+  "keywords": [],
+  "author": "<asswk1875@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sawok94/telegram_bot/issues"
+  },
+  "homepage": "https://github.com/Sawok94/telegram_bot#readme",
+  "dependencies": {
+    "mongoose": "^6.1.2",
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15"
+  }
+}
