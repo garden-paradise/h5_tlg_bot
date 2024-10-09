@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Sawok94/telegram_bot/issues"
   },
-  "homepage": "https://github.com/Sawok94/telegram_bot#readme",
+  "homepage": ".",
   "dependencies": {
     "mongoose": "^6.1.2",
     "node-telegram-bot-api": "^0.56.0",
